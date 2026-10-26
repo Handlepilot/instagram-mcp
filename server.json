@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.handlepilot/handlepilot",
+  "title": "HandlePilot",
+  "description": "Instagram content hub for your AI agent: competitor research, reel breakdowns, plans and carousels.",
+  "version": "1.0.0",
+  "websiteUrl": "https://handlepilot.com/mcp",
+  "repository": {
+    "url": "https://github.com/Handlepilot/instagram-mcp",
+    "source": "github",
+    "id": "1434508777"
+  },
+  "icons": [
+    {
+      "src": "https://handlepilot.com/images/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.handlepilot.com/mcp"
+    }
+  ]
+}

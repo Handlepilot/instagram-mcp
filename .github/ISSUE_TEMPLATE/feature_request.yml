@@ -1,0 +1,20 @@
+name: Feature request
+description: A tool, skill or change you'd like in HandlePilot's MCP server or plugin.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: want
+    attributes:
+      label: What would you like your agent to be able to do?
+      description: The task, in your own words. An example prompt helps.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters to you
+  - type: input
+    id: client
+    attributes:
+      label: Which client you use
+      placeholder: e.g. Claude Code, ChatGPT, Cursor

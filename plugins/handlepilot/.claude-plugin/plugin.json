@@ -1,0 +1,20 @@
+{
+  "name": "handlepilot",
+  "displayName": "HandlePilot",
+  "version": "1.0.0",
+  "description": "Instagram content hub for your AI agent. Connects the HandlePilot MCP server (competitor research, reel breakdowns, content plans, editable carousels, production board) and adds HandlePilot's playbooks as skills.",
+  "author": {
+    "name": "HandlePilot",
+    "email": "support@handlepilot.com",
+    "url": "https://handlepilot.com"
+  },
+  "homepage": "https://handlepilot.com/mcp",
+  "repository": "https://github.com/Handlepilot/instagram-mcp",
+  "license": "MIT",
+  "keywords": ["instagram", "content-strategy", "creators", "carousels", "reels", "social-media"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://handlepilot.com/mcp",
+  "supportUrl": "https://github.com/Handlepilot/instagram-mcp/issues",
+  "privacyPolicyUrl": "https://handlepilot.com/privacy",
+  "termsOfServiceUrl": "https://handlepilot.com/terms"
+}

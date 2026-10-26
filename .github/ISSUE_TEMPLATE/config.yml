@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or privacy question
+    url: mailto:support@handlepilot.com
+    about: Email support@handlepilot.com for anything about your account. Don't post account details here.
+  - name: Setup guide
+    url: https://handlepilot.com/mcp
+    about: Connecting ChatGPT, Claude, Claude Code, Codex, Cursor or VS Code.
