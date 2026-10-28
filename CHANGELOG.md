@@ -4,6 +4,10 @@ Changes to this repository: the docs, `server.json` and the Claude Code plugin. 
 
 Versions follow the plugin's `version` in `plugins/handlepilot/.claude-plugin/plugin.json`. A registry metadata change gets a new `version` in `server.json` (registry versions can't be reused).
 
+## Unreleased
+
+- README: "Watch the demo" section with the 45-second promo video (poster in `assets/`, video on YouTube).
+
 ## 1.0.0 (2026-10-26)
 
 - First public release.

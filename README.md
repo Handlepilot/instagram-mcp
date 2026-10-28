@@ -12,6 +12,12 @@
 - **Sign-in:** OAuth in your browser (email sign-in link, then Allow), or a personal token
 - **Docs:** https://handlepilot.com/mcp
 
+## Watch the demo
+
+[![HandlePilot MCP in 45 seconds: research, plan, make and edit Instagram content from your AI agent](assets/demo-poster.jpg)](https://www.youtube.com/watch?v=gK3l6eNJ3Gs)
+
+[Watch the 45-second video on YouTube](https://www.youtube.com/watch?v=gK3l6eNJ3Gs)
+
 This repository holds the public docs, the [MCP Registry](https://registry.modelcontextprotocol.io) entry (`server.json`) and a Claude Code plugin with HandlePilot's playbooks as skills. The server itself is run by HandlePilot and is not in this repository.
 
 ## What your agent can do
