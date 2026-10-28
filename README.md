@@ -31,19 +31,24 @@ This repository holds the public docs, the [MCP Registry](https://registry.model
 
 Everyone who signs in gets a free account. Nothing runs on your computer and there is no key to copy: the first connection opens a HandlePilot sign-in in your browser.
 
-| | Free | Paid, $50/month, cancel anytime |
-|---|---|---|
-| Playbooks, prompts, carousel styles and other knowledge tools | Unlimited | Unlimited |
-| New video watches (watching a video again is free) | 3 a month | Larger allowance |
-| Instagram lookups (accounts, posts, search) | 30 a month | Larger allowance |
-| Workspaces (Instagram accounts you manage) | 1 | More |
-| Inspiration accounts | Up to 5 per workspace, added by hand | Plus bulk research scans |
-| Carousels | 5 a month, in the built-in styles | Included, plus custom styles |
-| Production board and calendar | | Included |
-| Asset library and uploads | | Included |
-| Reels (Reel Maker, finished-reel uploads) | | Included |
+Plans: [handlepilot.com/mcp#plans](https://handlepilot.com/mcp#plans). Prices exclude tax; cancel anytime.
 
-- Free allowances reset at the start of each calendar month (UTC).
+| | Free, $0 | Pro, $50/month | Studio, $200/month |
+|---|---|---|---|
+| All 8 playbooks, prompts, carousel styles, content plan, voice guide, creator context | Included | Included | Included |
+| New video watches a month (watching a video again is free) | 3 | 500 | 3,000 |
+| Tool calls a month | 20,000 | 20,000 | 120,000 |
+| Instagram lookups a month (accounts, posts, search) | 30 | Within tool calls | Within tool calls |
+| Workspaces (Instagram accounts you manage) | 1 | 20 | 120 |
+| Inspiration accounts per workspace | 5, added by hand | Unlimited, plus bulk research scans | Unlimited, plus bulk research scans |
+| Carousels a month | 5, in 60+ built-in styles | Unlimited, plus custom styles | Unlimited, plus custom styles |
+| Production board and calendar | In the app | Included | Included |
+| Asset library and uploads | | Included | Included |
+| Reels (Reel Maker, finished-reel uploads) | | Included | Included |
+
+What a free account can do with the playbooks: write a content strategy and save it as your plan (`strategy`), build a voice guide from your own captions (`voice-pack`), break down three new reels a month and remix the best into scripts in your voice (`remix`), and make five editable carousels a month (`carousel`). The other playbooks (`getting-started`, `discovery`, `custom-style`, `reel-editing`) are free to read; a few of their steps use paid tools, and your agent says so.
+
+- Free allowances reset at the start of each calendar month (UTC); paid ones when the subscription renews. Paid plans also carry a fair-use cap on processing that everyday use doesn't reach.
 - Every tool is visible on every account. When a tool needs the paid plan, or a free allowance is used up, it answers `upgrade_required` with a link, and your agent tells you once. Everything you already saved stays usable.
 - Upgrade in the app: https://app.handlepilot.com/subscribe. The same connection keeps working; there is nothing to reinstall.
 

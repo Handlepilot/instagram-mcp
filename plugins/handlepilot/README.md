@@ -44,7 +44,7 @@ If you already added the server by hand (`claude mcp add ... handlepilot ...`), 
 The first time Claude connects to the server, HandlePilot opens a sign-in page in your browser. You enter your email, open the sign-in link HandlePilot sends, and press Allow. That creates a free account if you don't have one. There is no API key to copy.
 
 - **Free:** the knowledge tools without limit; each month 3 new video watches (repeating a watched video is free), 30 Instagram lookups and 5 carousels in the built-in styles; 1 workspace and up to 5 inspiration accounts added by hand.
-- **Paid ($50/month, cancel anytime):** bulk research scans, the production board and calendar, custom carousel styles, the asset library and reels, more workspaces and larger allowances.
+- **Pro ($50/month) and Studio ($200/month), plus tax, cancel anytime:** bulk research scans, the production board and calendar, custom carousel styles, the asset library and reels. Pro: 20 workspaces, 500 new video watches and 20,000 tool calls a month. Studio: 120 workspaces, 3,000 watches and 120,000 tool calls. Details: https://handlepilot.com/mcp#plans
 
 Every tool is visible on every account. A paid-only tool answers `upgrade_required` with a link, and the same connection works as soon as you upgrade.
 
